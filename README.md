@@ -5,16 +5,25 @@
 ✨ Features
 
 🌑 Dark minimal design with purple & teal accents
+
 🖱️ Custom cursor with hover expand effect
+
 🎞️ Smooth scroll-triggered reveal animations
+
 📱 Fully responsive — works on mobile, tablet & desktop
+
 🧭 Fixed navigation with active section highlight
+
 🗂️ Project cards with tech stack & GitHub links
+
 🏅 Certifications section
+
 📬 Contact form with mailto integration
 
 🧑‍💻 Technologies Used
 
 HTML5
+
 CSS3
+
 JavaScript
